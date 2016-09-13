@@ -1,0 +1,6 @@
+node_modules
+build
+!build/index.html
+!build/fav
+npm-debug.log
+.directory
